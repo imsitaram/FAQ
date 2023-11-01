@@ -34,7 +34,8 @@ flex-direction: column;
     /* text-align: center; */
    width: 50%; 
    padding: auto;
-   
+   font-family:cursive;
+   font-size:larger; 
 }
 
 
